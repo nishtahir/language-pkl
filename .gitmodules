@@ -1,0 +1,3 @@
+[submodule "pkl-vscode"]
+	path = pkl-vscode
+	url = git@github.com:apple/pkl-vscode.git
